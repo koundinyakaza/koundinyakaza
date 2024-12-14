@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="Hello Animation" width="400"/>
 </p>
 
-[![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://chandukoundinya.in) 
+[![Website Badge](https://img.shields.io/badge/Website-chandukoundinya.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://chandukoundinya.in) 
 [![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://koundinyakaza.github.io/chandu-GitHubPage/)
 
 ---
